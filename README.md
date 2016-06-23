@@ -2,6 +2,9 @@
 
 _The GIF tag the internet deserves_
 
+This library was too good to lose so I took it over from glenmaddern--please pull request here for pushes to npm.
+Bower is no longer a supported repo.
+
 ## Usage
 
 **&lt;x-gif&gt;** is a web component for flexible GIF playback. Speed them up, slow them down, play them in reverse, synch multiple beats to a rhythm, synch them to audio, whatever you like.
