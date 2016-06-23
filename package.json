@@ -1,6 +1,6 @@
 {
   "name": "x-gif",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "The GIF element the internet deserves",
   "main": "dist/x-gif.html",
   "readme": "README.md",
