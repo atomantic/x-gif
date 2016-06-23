@@ -1,9 +1,8 @@
 {
   "name": "x-gif",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The GIF element the internet deserves",
   "main": "dist/x-gif.html",
-  "readme": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -1,3 +1,6 @@
+#1.0.4
+  - npm doesn't like pushes from gh-pages? use master
+
 #1.0.3
   - re-publish to npm
 
