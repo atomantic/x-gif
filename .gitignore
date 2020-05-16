@@ -4,3 +4,4 @@ demos/audio
 dist/images
 /*.gif
 .sass-cache
+.vscode
